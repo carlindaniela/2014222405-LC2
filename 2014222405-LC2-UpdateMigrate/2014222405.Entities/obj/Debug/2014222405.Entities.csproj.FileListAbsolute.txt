@@ -1,0 +1,20 @@
+c:\users\oscar\documents\visual studio 2013\Projects\2014222405\2014222405.Entities\bin\Debug\2014222405.Entities.dll
+c:\users\oscar\documents\visual studio 2013\Projects\2014222405\2014222405.Entities\bin\Debug\2014222405.Entities.pdb
+c:\users\oscar\documents\visual studio 2013\Projects\2014222405\2014222405.Entities\obj\Debug\2014222405.Entities.csprojResolveAssemblyReference.cache
+c:\users\oscar\documents\visual studio 2013\Projects\2014222405\2014222405.Entities\obj\Debug\2014222405.Entities.dll
+c:\users\oscar\documents\visual studio 2013\Projects\2014222405\2014222405.Entities\obj\Debug\2014222405.Entities.pdb
+I:\2014222405-LC2\2014222405.Entities\bin\Debug\2014222405.Entities.dll
+I:\2014222405-LC2\2014222405.Entities\bin\Debug\2014222405.Entities.pdb
+I:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.dll
+I:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.pdb
+I:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.csprojResolveAssemblyReference.cache
+G:\2014222405-LC2\2014222405.Entities\bin\Debug\2014222405.Entities.dll
+G:\2014222405-LC2\2014222405.Entities\bin\Debug\2014222405.Entities.pdb
+G:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.csprojResolveAssemblyReference.cache
+G:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.dll
+G:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.pdb
+F:\2014222405-LC2\2014222405.Entities\bin\Debug\2014222405.Entities.dll
+F:\2014222405-LC2\2014222405.Entities\bin\Debug\2014222405.Entities.pdb
+F:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.csprojResolveAssemblyReference.cache
+F:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.dll
+F:\2014222405-LC2\2014222405.Entities\obj\Debug\2014222405.Entities.pdb
